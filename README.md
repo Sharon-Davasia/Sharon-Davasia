@@ -1,5 +1,5 @@
 <!--
-  SHARON DAVASIA · PROFILE IDENTITY
+  SHARON K DAVASIA · PROFILE IDENTITY
   Minimal editorial / sage & neutral / GitHub-native Markdown + HTML.
 
   Edit checklist
@@ -13,11 +13,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Sharon Davasia — Curiosity, made practical. A restrained sage-and-neutral profile banner." />
+  <img src="assets/header-light.svg" width="100%" alt="Sharon K Davasia — Curiosity, made practical. A restrained sage-and-neutral profile banner." />
 </picture>
 
 <div align="center">
-  <h3>Sharon Davasia</h3>
+  <h3>Sharon K Davasia</h3>
   <p><strong>Computer Science Student | AI &amp; ML Enthusiast | Full-Stack Developer</strong></p>
 </div>
 
