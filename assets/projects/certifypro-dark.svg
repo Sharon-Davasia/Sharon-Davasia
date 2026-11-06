@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">CertifyPro — digital certificate illustration</title>
+  <desc id="desc">Original, restrained geometric branding for Sharon Davasia. Decorative illustration, not a project screenshot.</desc>
+  <rect width="720" height="240" rx="8" fill="#161C18"/>
+  <path d="M24 24h16m-8-8v16M680 216h16m-8-8v16" stroke="#6F8476" stroke-width="1"/>
+  <rect x="238" y="43" width="244" height="154" rx="8" fill="#202923" stroke="#303B33" transform="rotate(-5 360 120)"/>
+  <rect x="228" y="51" width="244" height="154" rx="8" fill="#161C18" stroke="#819889" stroke-width="1.4"/>
+  <rect x="244" y="67" width="212" height="122" rx="3" fill="none" stroke="#303B33"/>
+  <path d="M264 92h116M264 111h164M264 126h142M264 141h98" stroke="#6F8476" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  <path d="M264 169h62" stroke="#819889" stroke-width="1.5"/>
+  <path d="M405 163l-7 28 15-8 13 8-5-28" fill="#6F8476" opacity=".65"/>
+  <circle cx="413" cy="153" r="20" fill="#202923" stroke="#819889" stroke-width="1.5"/>
+  <path d="M404 153l6 6 12-13" fill="none" stroke="#B7C8BC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#6F8476"><circle cx="184" cy="88" r="2"/><circle cx="530" cy="153" r="2"/></g>
+  <path d="M174 152h20m-10-10v20M516 82h20m-10-10v20" stroke="#303B33"/>
+</svg>

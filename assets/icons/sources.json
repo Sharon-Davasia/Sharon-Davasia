@@ -1,0 +1,147 @@
+[
+  {
+    "file": "assets/icons/python.svg",
+    "label": "Python",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/java.svg",
+    "label": "Java",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/javascript.svg",
+    "label": "JavaScript",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/html.svg",
+    "label": "HTML",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/css.svg",
+    "label": "CSS",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/react.svg",
+    "label": "React",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/nextjs.svg",
+    "label": "Next.js",
+    "source": "devicon v2.18.0 / icons/nextjs/nextjs-plain.svg"
+  },
+  {
+    "file": "assets/icons/tailwind.svg",
+    "label": "Tailwind CSS",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/nodejs.svg",
+    "label": "Node.js",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/express.svg",
+    "label": "Express.js",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/fastapi.svg",
+    "label": "FastAPI",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/flask.svg",
+    "label": "Flask",
+    "source": "simple-icons v13.21.0 / flask"
+  },
+  {
+    "file": "assets/icons/sklearn.svg",
+    "label": "Scikit-learn",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/pytorch.svg",
+    "label": "PyTorch",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/tensorflow.svg",
+    "label": "TensorFlow",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/huggingface.svg",
+    "label": "Hugging Face",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/openai.svg",
+    "label": "OpenAI API",
+    "source": "simple-icons v13.21.0 / openai"
+  },
+  {
+    "file": "assets/icons/mongodb.svg",
+    "label": "MongoDB",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/postgresql.svg",
+    "label": "PostgreSQL",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/mysql.svg",
+    "label": "MySQL",
+    "source": "devicon master 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6 / icons/mysql/mysql-original.svg"
+  },
+  {
+    "file": "assets/icons/firebase.svg",
+    "label": "Firebase",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/supabase.svg",
+    "label": "Supabase",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/redis.svg",
+    "label": "Redis",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/git.svg",
+    "label": "Git",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/github.svg",
+    "label": "GitHub",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/docker.svg",
+    "label": "Docker",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/postman.svg",
+    "label": "Postman",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/vscode.svg",
+    "label": "VS Code",
+    "source": "devicon v2.18.0"
+  },
+  {
+    "file": "assets/icons/linkedin.svg",
+    "label": "LinkedIn",
+    "source": "devicon v2.18.0 / icons/linkedin/linkedin-plain.svg"
+  }
+]

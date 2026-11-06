@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">RecallPad — capture and retrieval illustration</title>
+  <desc id="desc">Original, restrained geometric branding for Sharon Davasia. Decorative illustration, not a project screenshot.</desc>
+  <rect width="720" height="240" rx="8" fill="#161C18"/>
+  <path d="M24 24h16m-8-8v16M680 216h16m-8-8v16" stroke="#6F8476" stroke-width="1"/>
+  <g fill="none" stroke="#303B33" stroke-width="1.5">
+    <rect x="104" y="48" width="218" height="146" rx="9" fill="#202923"/>
+    <path d="M104 78h218"/>
+    <rect x="446" y="54" width="164" height="38" rx="6" fill="#202923"/>
+    <rect x="446" y="102" width="164" height="38" rx="6" fill="#202923"/>
+    <rect x="446" y="150" width="164" height="38" rx="6" fill="#202923"/>
+  </g>
+  <g fill="#6F8476"><circle cx="120" cy="63" r="2.5"/><circle cx="131" cy="63" r="2.5"/><circle cx="142" cy="63" r="2.5"/></g>
+  <path d="M128 98h124M128 116h164M128 134h145M128 152h94" stroke="#6F8476" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+  <path d="M278 92v36l-10-7-10 7V92z" fill="#819889" opacity=".8"/>
+  <path d="M338 121h88m-8-7 8 7-8 7" fill="none" stroke="#819889" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#819889"><circle cx="360" cy="103" r="2"/><circle cx="375" cy="96" r="2"/><circle cx="390" cy="103" r="2"/></g>
+  <g stroke="#6F8476" stroke-width="3" stroke-linecap="round"><path d="M462 68h70M462 79h108M462 116h92M462 127h62M462 164h78M462 175h100"/></g>
+  <g fill="#819889"><rect x="584" y="66" width="10" height="14" rx="2"/><rect x="584" y="114" width="10" height="14" rx="2"/><rect x="584" y="162" width="10" height="14" rx="2"/></g>
+</svg>
