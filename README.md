@@ -199,10 +199,10 @@ A few projects across applied AI, computer vision, and full-stack engineering.
   <summary>Certifications</summary>
   <br />
   <ul>
-    <li>AWS Academy Graduate — Generative AI Foundations · <code>[ADD CREDENTIAL URL]</code></li>
-    <li>Oracle Cloud Infrastructure 2025 — Generative AI Professional · <code>[ADD CREDENTIAL URL]</code></li>
-    <li>MongoDB — RAG, Advanced Schema Patterns and Anti-patterns · <code>[ADD CREDENTIAL URL]</code></li>
-    <li>Microsoft Elevate / AICTE — Power BI Internship Certification · <code>[ADD CREDENTIAL URL]</code></li>
+    <li>AWS Academy Graduate — Generative AI Foundations · </li>
+    <li>Oracle Cloud Infrastructure 2025 — Generative AI Professional · </li>
+    <li>MongoDB — RAG, Advanced Schema Patterns and Anti-patterns · </li>
+    <li>Microsoft Elevate / AICTE — Power BI Internship Certification ·</li>
   </ul>
   <sub>Titles transcribed from the <a href="https://github.com/Sharon-Davasia/dispensable_portfolio1/blob/main/SHARON_RESUME_LATEST.pdf">published résumé</a>; public verification links are not yet supplied.</sub>
 </details>
