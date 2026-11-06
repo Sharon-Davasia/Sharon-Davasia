@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">Computer vision — detection frame and pose keypoints illustration</title>
+  <desc id="desc">Original, restrained geometric branding for Sharon Davasia. Decorative illustration, not a project screenshot.</desc>
+  <rect width="720" height="240" rx="8" fill="#FCFCFB"/>
+  <path d="M24 24h16m-8-8v16M680 216h16m-8-8v16" stroke="#A8B9AC" stroke-width="1"/>
+  <g fill="none" stroke="#E5EAE5"><rect x="180" y="38" width="360" height="164" rx="8"/><path d="M180 160h360M270 38v164M450 38v164" stroke-dasharray="3 7"/></g>
+  <path d="M202 76V58h18M498 58h18v18M202 164v18h18M498 182h18v-18" fill="none" stroke="#819889" stroke-width="2" stroke-linecap="round"/>
+  <rect x="291" y="62" width="132" height="119" rx="4" fill="#F5F7F5" fill-opacity=".65" stroke="#819889" stroke-width="1.4"/>
+  <g fill="none" stroke="#52685A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="355" cy="84" r="9"/><path d="M355 95l-4 37m-17-23 21-10 22 17M351 132l-18 30m18-30 24 27"/>
+  </g>
+  <g fill="#819889"><circle cx="355" cy="99" r="3"/><circle cx="334" cy="109" r="3"/><circle cx="377" cy="116" r="3"/><circle cx="351" cy="132" r="3"/><circle cx="333" cy="162" r="3"/><circle cx="375" cy="159" r="3"/></g>
+  <path d="M146 120h16m-8-8v16M558 120h16m-8-8v16" stroke="#A8B9AC"/>
+</svg>
