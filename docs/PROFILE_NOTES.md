@@ -7,7 +7,7 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 - Replace the four `[ADD CREDENTIAL URL]` placeholders in **Certifications** with public certificate links, or remove the placeholder text.
 - Confirm the experience and recognition entries transcribed from the published résumé. Dates were deliberately omitted because “present” in a résumé can become stale.
 - Review the public email, LinkedIn URL, and portfolio URL. Remove any contact detail you do not want displayed.
-- Add a featured-project demo link only when a real deployment or demo is verified. The corresponding README comments are marked `[ADD VERIFIED URL WHEN AVAILABLE]`.
+- Add project demo links to the repository index only when a real deployment or demo is verified.
 - Review the skill inventory. FastAPI, Flask, Hugging Face, Supabase, Redis, RAG, and prompt engineering were retained from the supplied request; they were not all independently demonstrated in the public repositories inspected. Remove anything that is no longer part of your experience.
 - Keep the opening **Repository index** aligned with the public repository list. Preserve the explicit labels for concept demos, shared/team work, forks, and empty placeholders.
 
@@ -59,9 +59,9 @@ No statistics are hard-coded in the README. Language-percentage and rank cards w
 ## Design and compatibility
 
 - Palette: `#FCFCFB`, `#F5F7F5`, `#202722`, `#747C76`, `#819889`, `#A8B9AC`, `#E5EAE5`. Dark-mode artwork uses a coordinated deep-green neutral palette.
-- Original header, project artwork, divider, and contact badges are separate SVG files. Project artwork is decorative, not a screenshot.
+- Original header, divider, contact badges, and retained project artwork are separate SVG files. Project artwork is decorative, not a screenshot, and is no longer rendered after the Selected work removal.
 - `picture` elements provide light/dark artwork. GitHub controls page fonts and native link colors; no custom CSS or JavaScript is required by the README.
-- The repository index uses a two-column Markdown table so project names, descriptions, and stack labels wrap on narrow screens. Projects use full-width editorial rows rather than a fixed desktop-only card grid. Tables and images were checked at a 390 px viewport with GitHub-style Markdown CSS; no horizontal page overflow was observed.
+- The repository index uses a two-column Markdown table so project names, descriptions, and stack labels wrap on narrow screens. It is the single project-view section; the former Selected work spotlights were removed to avoid repetition. Tables and images were checked at a 390 px viewport with GitHub-style Markdown CSS; no horizontal page overflow was observed.
 - The README was rendered through GitHub’s Markdown API to check supported HTML and image handling. Meaningful images have alt text; decorative dividers use empty alt text.
 - Local assets avoid dependence on an icon CDN. If the live streak service fails, its short alt text and the native activity link remain.
 
@@ -69,6 +69,5 @@ No statistics are hard-coded in the README. Language-percentage and rank cards w
 
 - Edit the opening **Repository index** tables when the public repository list changes; keep the main table curated and the collapsed table complete.
 - Edit skills directly in the README’s grouped `<img>` rows.
-- Edit project copy and links in the four `<tr>` blocks under **Selected work**.
 - Regenerate original graphics with `python3 tools/build_graphics.py` from the repository root. The script uses only the Python standard library and the vendored GitHub/LinkedIn marks.
 - Icon provenance and licenses are in `assets/icons/`.
