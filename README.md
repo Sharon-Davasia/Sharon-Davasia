@@ -28,18 +28,18 @@ I explore the space between intelligent models and well-crafted software. My pro
 
 ## 01 / Repository index
 
-A quick map of the public work — applications, AI experiments, utilities, and practice. Project names open the repository; **Details** jumps to the longer spotlights below.
+A quick map of the public work — applications, AI experiments, utilities, and practice. Project names open the repository.
 
 <!-- Keep descriptions short and evidence-based. Label concept demos, shared/team work, forks, and empty placeholders. -->
 | Repository | What you’ll find |
 | :--- | :--- |
-| **[RecallPad](https://github.com/Sharon-Davasia/Google-Chrome-Built-in-AI-Challenge)**<br /><sub>Applied AI · Chrome extension</sub> | Capture, summarize, and search saved web text from a browser extension.<br /><sub>JavaScript · Chrome APIs · OpenAI API · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[RecallPad](https://github.com/Sharon-Davasia/Google-Chrome-Built-in-AI-Challenge)**<br /><sub>Applied AI · Chrome extension</sub> | Capture, summarize, and search saved web text from a browser extension.<br /><sub>JavaScript · Chrome APIs · OpenAI API</sub> |
 | **[Bifrost](https://github.com/Sharon-Davasia/Bifrost)**<br /><sub>Local-network sharing</sub> | A self-hosted file and text inbox for paired browsers on the same LAN.<br /><sub>Python · FastAPI · SQLite · JavaScript</sub> |
 | **[ARGUS](https://github.com/Sharon-Davasia/ARGUS)**<br /><sub>Interactive concept · demo data</sub> | An antimicrobial-resistance surveillance landing page with front-end telemetry demos; not a clinical system.<br /><sub>React · TypeScript · Tailwind CSS</sub> |
 | **[PROJECT-GENIUS](https://github.com/Sharon-Davasia/PROJECT-GENIUS)**<br /><sub>Learning &amp; build tracker</sub> | A personal learning tracker with phased modules, progress states, and a scored problem journal.<br /><sub>Next.js · TypeScript · PostgreSQL · Drizzle</sub> |
-| **[IdeaForge](https://github.com/Sharon-Davasia/ideaforge-hackathon)**<br /><sub>Multi-agent hackathon</sub> | Coordinated agents for idea validation, architecture, planning, and documentation.<br /><sub>IBM watsonx Orchestrate · Granite · <a href="#04--selected-work">Details ↓</a></sub> |
-| **[CertifyPro](https://github.com/Sharon-Davasia/Cathedral)**<br /><sub>Full-stack certificates</sub> | Certificate workflows backed by a React client, Express API, and MongoDB models.<br /><sub>React · Node.js · Express.js · MongoDB · <a href="#04--selected-work">Details ↓</a></sub> |
-| **[Vision experiments](https://github.com/Sharon-Davasia/Uptoskills_Output_Repo)**<br /><sub>Shared internship lab</sub> | Computer-vision tasks spanning road defects, fire/smoke, perimeter monitoring, and fall detection.<br /><sub>Python · OpenCV · PyTorch · YOLO · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[IdeaForge](https://github.com/Sharon-Davasia/ideaforge-hackathon)**<br /><sub>Multi-agent hackathon</sub> | Coordinated agents for idea validation, architecture, planning, and documentation.<br /><sub>IBM watsonx Orchestrate · Granite</sub> |
+| **[CertifyPro](https://github.com/Sharon-Davasia/Cathedral)**<br /><sub>Full-stack certificates</sub> | Certificate workflows backed by a React client, Express API, and MongoDB models.<br /><sub>React · Node.js · Express.js · MongoDB</sub> |
+| **[Vision experiments](https://github.com/Sharon-Davasia/Uptoskills_Output_Repo)**<br /><sub>Shared internship lab</sub> | Computer-vision tasks spanning road defects, fire/smoke, perimeter monitoring, and fall detection.<br /><sub>Python · OpenCV · PyTorch · YOLO</sub> |
 | **[Portfolio](https://github.com/Sharon-Davasia/Portfolio)**<br /><sub>Personal website</sub> | An editorial portfolio with responsive project showcases and a restrained motion system.<br /><sub>React · TypeScript · Tailwind CSS · <a href="https://sharonportfolio0.vercel.app">Website ↗</a></sub> |
 
 <details>
@@ -135,73 +135,7 @@ A working toolkit, not a proficiency scoreboard.
   </tr>
 </table>
 
-## 04 / Selected work
-
-A few projects across applied AI, computer vision, and full-stack engineering.
-
-<!-- Artwork is original and decorative, not a screenshot or a claim about deployment. -->
-<table>
-  <tr>
-    <td width="30%" valign="middle"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/projects/recallpad-dark.svg" />
-        <img src="assets/projects/recallpad-light.svg" width="100%" alt="RecallPad artwork: captured text flowing into searchable notes." />
-      </picture></td>
-    <td width="70%" valign="top"><h3><a href="https://github.com/Sharon-Davasia/Google-Chrome-Built-in-AI-Challenge">RecallPad</a></h3>
-      <sub>Applied AI · Chrome extension</sub>
-      <p>Capture web text, summarize it, and search your saved knowledge from a Chrome extension.</p>
-      <p><sub>JavaScript · Chrome APIs · OpenAI API</sub></p>
-      <a href="https://github.com/Sharon-Davasia/Google-Chrome-Built-in-AI-Challenge">View repository ↗</a>
-      <!-- Live demo: [ADD VERIFIED URL WHEN AVAILABLE] -->
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="middle"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ideaforge-dark.svg" />
-        <img src="assets/projects/ideaforge-light.svg" width="100%" alt="IdeaForge artwork: a central orchestrator connected to four agents." />
-      </picture></td>
-    <td width="70%" valign="top"><h3><a href="https://github.com/Sharon-Davasia/ideaforge-hackathon">IdeaForge</a></h3>
-      <sub>Multi-agent AI · Hackathon</sub>
-      <p>A hackathon experiment in coordinated agents that turn an idea into validation, architecture, planning, and documentation.</p>
-      <p><sub>IBM watsonx Orchestrate · Granite</sub></p>
-      <a href="https://github.com/Sharon-Davasia/ideaforge-hackathon">View repository ↗</a>
-      <!-- Live demo: [ADD VERIFIED URL WHEN AVAILABLE] -->
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="middle"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/projects/certifypro-dark.svg" />
-        <img src="assets/projects/certifypro-light.svg" width="100%" alt="CertifyPro artwork: a digital certificate with a verification seal." />
-      </picture></td>
-    <td width="70%" valign="top"><h3><a href="https://github.com/Sharon-Davasia/Cathedral">CertifyPro</a></h3>
-      <sub>Full-stack · Certificate management</sub>
-      <p>Certificate-focused workflows with a React client, Express API, MongoDB models, and PDF generation.</p>
-      <p><sub>React · Node.js · Express.js · MongoDB</sub></p>
-      <a href="https://github.com/Sharon-Davasia/Cathedral">View repository ↗</a>
-      <!-- Live demo: [ADD VERIFIED URL WHEN AVAILABLE] -->
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="middle"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/projects/vision-dark.svg" />
-        <img src="assets/projects/vision-light.svg" width="100%" alt="Computer-vision artwork: a detection frame and pose keypoints." />
-      </picture></td>
-    <td width="70%" valign="top"><h3><a href="https://github.com/Sharon-Davasia/Uptoskills_Output_Repo">Vision experiments</a></h3>
-      <sub>Computer vision · Team repository</sub>
-      <p>Shared internship work on road-defect, fire/smoke, perimeter, and fall detection, with notebooks and outputs.</p>
-      <p><sub>Python · OpenCV · PyTorch · YOLO</sub></p>
-      <a href="https://github.com/Sharon-Davasia/Uptoskills_Output_Repo">View repository ↗</a>
-      <!-- Live demo: [ADD VERIFIED URL WHEN AVAILABLE] -->
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary>One more practical experiment</summary>
-  <br />
-  <a href="https://github.com/Sharon-Davasia/Kiro-week2"><strong>Downloads Folder Organizer</strong></a> — a Python utility for sorting files by type, with dry-run previews, logging, and undo support.
-</details>
-
-## 05 / GitHub activity
+## 04 / GitHub activity
 
 <!-- One live widget only. The native GitHub link below remains useful if the service fails. -->
 <picture>
@@ -211,13 +145,13 @@ A few projects across applied AI, computer vision, and full-stack engineering.
 
 <sub>Public contributions, rendered live. <a href="https://github.com/Sharon-Davasia?tab=overview">Open the native activity overview ↗</a></sub>
 
-## 06 / Currently exploring
+## 05 / Currently exploring
 
 - **Deep learning** — architectures, training choices, and computer-vision workflows.
 - **AI-powered applications** — retrieval, evaluation, and interfaces that keep people in control.
 - **Engineering depth** — scalable backend patterns and modern frontend development.
 
-## 07 / Experience & milestones
+## 06 / Experience & milestones
 
 <!-- Transcribed from the published résumé linked below. Confirm current roles/dates. -->
 | Experience | Focus |
@@ -243,7 +177,7 @@ A few projects across applied AI, computer vision, and full-stack engineering.
 
 <img src="assets/divider.svg" width="100%" height="12" alt="" />
 
-## 08 / Let's connect
+## 07 / Let's connect
 
 <!-- Local SVG badges keep the closing section readable even if a badge service is down. -->
 <p>
