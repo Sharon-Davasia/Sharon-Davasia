@@ -9,6 +9,7 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 - Review the public email, LinkedIn URL, and portfolio URL. Remove any contact detail you do not want displayed.
 - Add a featured-project demo link only when a real deployment or demo is verified. The corresponding README comments are marked `[ADD VERIFIED URL WHEN AVAILABLE]`.
 - Review the skill inventory. FastAPI, Flask, Hugging Face, Supabase, Redis, RAG, and prompt engineering were retained from the supplied request; they were not all independently demonstrated in the public repositories inspected. Remove anything that is no longer part of your experience.
+- Keep the opening **Repository index** aligned with the public repository list. Preserve the explicit labels for concept demos, shared/team work, forks, and empty placeholders.
 
 ## Content provenance
 
@@ -17,6 +18,12 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 | Name, degree, specialization, university | Public portfolio and résumé in `dispensable_portfolio1` | Used without invented grades or dates. |
 | Email, LinkedIn, portfolio | Public GitHub profile, résumé, and portfolio | Portfolio page was reachable during the check. LinkedIn returned 403 to the automated fetch, so its URL is sourced but not independently opened. |
 | RecallPad | `Google-Chrome-Built-in-AI-Challenge` README, manifest, and services | Description kept to implemented capture, summarization, and search; no performance or privacy guarantee claimed. |
+| Bifrost | `Bifrost` README and requirements | Described as self-hosted LAN file/text sharing; no public deployment implied. |
+| ARGUS | `ARGUS` README and package manifest | Explicitly labeled an interactive concept with demo data, not a clinical or production surveillance system. |
+| PROJECT-GENIUS | Source files, package manifest, database schema, and server actions | Described from implemented module/problem-journal code; no README or deployment was present during the check. |
+| Portfolio / static portfolio | `Portfolio` and `dispensable_portfolio1` READMEs and repository metadata | The React portfolio website link was reachable; the static repository is described as build-free HTML. |
+| task2 / task1 | Repository trees and the task2 pipeline header | task2 is a video-analysis task; task1 is explicitly labeled an empty placeholder. |
+| NeetCode / Django fork / profile source | Repository metadata, README, and fork flag | Practice, upstream fork, and profile source are separated from original project work. |
 | IdeaForge | `ideaforge-hackathon` README | Presented as a hackathon exploration, not a deployed product. |
 | CertifyPro | `Cathedral` README and client/server manifests | Repository name and project name differ; the README links to the real repository. |
 | Vision experiments | `Uptoskills_Output_Repo` task READMEs and notebooks | Explicitly labeled a shared/team internship repository; no individual attribution or benchmark numbers invented. |
@@ -27,6 +34,18 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 | Open-source contributions | No merged contribution was verified | No contribution claim added; a fork alone was not treated as a contribution. |
 
 Résumé source: <https://github.com/Sharon-Davasia/dispensable_portfolio1/blob/main/SHARON_RESUME_LATEST.pdf>
+
+## Repository index audit — 2026-11-08
+
+The opening index was checked against the 15 public repositories visible on the profile at the time of the edit. Eight substantive projects are shown in the main table; utilities, practice, analysis, the empty placeholder, the upstream fork, and the profile source are grouped in a collapsed table. This keeps the beginning scannable without hiding repositories or presenting a fork as original work.
+
+Editorial rules:
+
+- Use a friendly project name when it is clearer than the repository slug, but link directly to the real repository.
+- Keep each description to one purpose-led sentence plus a compact stack line.
+- Do not infer a live deployment from a repository description. The portfolio website is the only external project link in the index.
+- Label ARGUS as a front-end concept with demonstration data; label Uptoskills as shared internship work; label Django as a fork; label task1 as empty.
+- Revisit the index when repositories are added, renamed, archived, or given a verified demo URL.
 
 ## External-service check — 2026-11-06
 
@@ -42,12 +61,13 @@ No statistics are hard-coded in the README. Language-percentage and rank cards w
 - Palette: `#FCFCFB`, `#F5F7F5`, `#202722`, `#747C76`, `#819889`, `#A8B9AC`, `#E5EAE5`. Dark-mode artwork uses a coordinated deep-green neutral palette.
 - Original header, project artwork, divider, and contact badges are separate SVG files. Project artwork is decorative, not a screenshot.
 - `picture` elements provide light/dark artwork. GitHub controls page fonts and native link colors; no custom CSS or JavaScript is required by the README.
-- Projects use full-width editorial rows rather than a fixed desktop-only card grid. Tables and images were checked at a 390 px viewport with GitHub-style Markdown CSS; no horizontal page overflow was observed.
+- The repository index uses a two-column Markdown table so project names, descriptions, and stack labels wrap on narrow screens. Projects use full-width editorial rows rather than a fixed desktop-only card grid. Tables and images were checked at a 390 px viewport with GitHub-style Markdown CSS; no horizontal page overflow was observed.
 - The README was rendered through GitHub’s Markdown API to check supported HTML and image handling. Meaningful images have alt text; decorative dividers use empty alt text.
 - Local assets avoid dependence on an icon CDN. If the live streak service fails, its short alt text and the native activity link remain.
 
 ## Maintenance
 
+- Edit the opening **Repository index** tables when the public repository list changes; keep the main table curated and the collapsed table complete.
 - Edit skills directly in the README’s grouped `<img>` rows.
 - Edit project copy and links in the four `<tr>` blocks under **Selected work**.
 - Regenerate original graphics with `python3 tools/build_graphics.py` from the repository root. The script uses only the Python standard library and the vendored GitHub/LinkedIn marks.
