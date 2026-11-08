@@ -41,7 +41,7 @@ A quick map of the public work — applications, AI experiments, utilities, and 
 | **[CertifyPro](https://github.com/Sharon-Davasia/Cathedral)**<br /><sub>Full-stack certificates</sub> | Certificate workflows backed by a React client, Express API, and MongoDB models.<br /><sub>React · Node.js · Express.js · MongoDB</sub> |
 | **[Vision experiments](https://github.com/Sharon-Davasia/Uptoskills_Output_Repo)**<br /><sub>Shared internship lab</sub> | Computer-vision tasks spanning road defects, fire/smoke, perimeter monitoring, and fall detection.<br /><sub>Python · OpenCV · PyTorch · YOLO</sub> |
 | **[Portfolio](https://github.com/Sharon-Davasia/Portfolio)**<br /><sub>Personal website</sub> | An editorial portfolio with responsive project showcases and a restrained motion system.<br /><sub>React · TypeScript · Tailwind CSS · <a href="https://sharonportfolio0.vercel.app">Website ↗</a></sub> |
-
+| **[NeuroGrid](https://github.com/Sharon-Davasia/NeuroGrid-RAG-System)**<br /><sub>AI RAG Agents Platform</sub> | A powerful, production-ready platform for building and managing AI agents with RAG (Retrieval Augmented Generation) capabilities.<br /><sub>React · TypeScript · Tailwind CSS · PLpgSQL · ML ·<a href="https://neurogid-rag-system.vercel.app/">Website ↗</a></sub> |
 <details>
   <summary>Utilities, practice, archives &amp; profile source</summary>
   <br />
