@@ -7,6 +7,7 @@
   · Confirm résumé-derived experience and recognition before publishing.
   · Add project demo links only after verifying a real deployment.
   · Skills are an editable working inventory, not proficiency ratings.
+  · Keep the repository index aligned when repositories are added, renamed, or archived.
   · Sources, maintenance notes, and external-service checks: docs/PROFILE_NOTES.md.
 -->
 
@@ -25,7 +26,40 @@ I explore the space between intelligent models and well-crafted software. My pro
 
 <img src="assets/divider.svg" width="100%" height="12" alt="" />
 
-## 01 / About me
+## 01 / Repository index
+
+A quick map of the public work — applications, AI experiments, utilities, and practice. Project names open the repository; **Details** jumps to the longer spotlights below.
+
+<!-- Keep descriptions short and evidence-based. Label concept demos, shared/team work, forks, and empty placeholders. -->
+| Repository | What you’ll find |
+| :--- | :--- |
+| **[RecallPad](https://github.com/Sharon-Davasia/Google-Chrome-Built-in-AI-Challenge)**<br /><sub>Applied AI · Chrome extension</sub> | Capture, summarize, and search saved web text from a browser extension.<br /><sub>JavaScript · Chrome APIs · OpenAI API · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[Bifrost](https://github.com/Sharon-Davasia/Bifrost)**<br /><sub>Local-network sharing</sub> | A self-hosted file and text inbox for paired browsers on the same LAN.<br /><sub>Python · FastAPI · SQLite · JavaScript</sub> |
+| **[ARGUS](https://github.com/Sharon-Davasia/ARGUS)**<br /><sub>Interactive concept · demo data</sub> | An antimicrobial-resistance surveillance landing page with front-end telemetry demos; not a clinical system.<br /><sub>React · TypeScript · Tailwind CSS</sub> |
+| **[PROJECT-GENIUS](https://github.com/Sharon-Davasia/PROJECT-GENIUS)**<br /><sub>Learning &amp; build tracker</sub> | A personal learning tracker with phased modules, progress states, and a scored problem journal.<br /><sub>Next.js · TypeScript · PostgreSQL · Drizzle</sub> |
+| **[IdeaForge](https://github.com/Sharon-Davasia/ideaforge-hackathon)**<br /><sub>Multi-agent hackathon</sub> | Coordinated agents for idea validation, architecture, planning, and documentation.<br /><sub>IBM watsonx Orchestrate · Granite · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[CertifyPro](https://github.com/Sharon-Davasia/Cathedral)**<br /><sub>Full-stack certificates</sub> | Certificate workflows backed by a React client, Express API, and MongoDB models.<br /><sub>React · Node.js · Express.js · MongoDB · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[Vision experiments](https://github.com/Sharon-Davasia/Uptoskills_Output_Repo)**<br /><sub>Shared internship lab</sub> | Computer-vision tasks spanning road defects, fire/smoke, perimeter monitoring, and fall detection.<br /><sub>Python · OpenCV · PyTorch · YOLO · <a href="#04--selected-work">Details ↓</a></sub> |
+| **[Portfolio](https://github.com/Sharon-Davasia/Portfolio)**<br /><sub>Personal website</sub> | An editorial portfolio with responsive project showcases and a restrained motion system.<br /><sub>React · TypeScript · Tailwind CSS · <a href="https://sharonportfolio0.vercel.app">Website ↗</a></sub> |
+
+<details>
+  <summary>Utilities, practice, archives &amp; profile source</summary>
+  <br />
+
+  | Repository | What you’ll find |
+  | :--- | :--- |
+  | **[Downloads Organizer](https://github.com/Sharon-Davasia/Kiro-week2)**<br /><sub>Python utility</sub> | Sort files by type with dry-run previews, logging, and undo support.<br /><sub>Python standard library</sub> |
+  | **[Static portfolio](https://github.com/Sharon-Davasia/dispensable_portfolio1)**<br /><sub>Build-free website</sub> | A single-page HTML portfolio with bundled fonts and résumé download.<br /><sub>HTML · CSS</sub> |
+  | **[NeetCode submissions](https://github.com/Sharon-Davasia/neetcode-submissions)**<br /><sub>Practice archive</sub> | Topic-organized Python solutions synced from NeetCode.<br /><sub>Python · DSA practice</sub> |
+  | **[task2](https://github.com/Sharon-Davasia/task2)**<br /><sub>Video-analysis task</sub> | A Kaggle-style pipeline and reports for victim–attacker interaction-duration analysis.<br /><sub>Python · OpenCV · YOLO</sub> |
+  | **[task1](https://github.com/Sharon-Davasia/task1)**<br /><sub>Empty placeholder</sub> | A reserved task repository; no public project files yet.<br /><sub>—</sub> |
+  | **[django-open-source-](https://github.com/Sharon-Davasia/django-open-source-)**<br /><sub>Upstream fork</sub> | A reference fork of Django; not presented as original project work.<br /><sub>Open-source framework</sub> |
+  | **[Profile README](https://github.com/Sharon-Davasia/Sharon-Davasia)**<br /><sub>This page</sub> | Source for the profile identity, SVG assets, and graphics generator.<br /><sub>Markdown · Python · SVG</sub> |
+</details>
+
+<sub>Concept demos, shared repositories, and forks are labeled. <a href="https://github.com/Sharon-Davasia?tab=repositories">Browse all repositories ↗</a></sub>
+
+## 02 / About me
 
 - Pursuing **B.Tech in Computer Science, specializing in AI, ML, and Deep Learning** at Teerthanker Mahaveer University.
 - Exploring artificial intelligence and deep learning through practical, hands-on projects.
@@ -34,7 +68,7 @@ I explore the space between intelligent models and well-crafted software. My pro
 
 *I like the moment an experiment becomes something someone can actually use.*
 
-## 02 / Technical arsenal
+## 03 / Technical arsenal
 
 A working toolkit, not a proficiency scoreboard.
 
@@ -101,7 +135,7 @@ A working toolkit, not a proficiency scoreboard.
   </tr>
 </table>
 
-## 03 / Selected work
+## 04 / Selected work
 
 A few projects across applied AI, computer vision, and full-stack engineering.
 
@@ -140,7 +174,7 @@ A few projects across applied AI, computer vision, and full-stack engineering.
       </picture></td>
     <td width="70%" valign="top"><h3><a href="https://github.com/Sharon-Davasia/Cathedral">CertifyPro</a></h3>
       <sub>Full-stack · Certificate management</sub>
-      <p>Manage certificate templates, role-based access, PDF generation, and CSV-driven bulk issuance.</p>
+      <p>Certificate-focused workflows with a React client, Express API, MongoDB models, and PDF generation.</p>
       <p><sub>React · Node.js · Express.js · MongoDB</sub></p>
       <a href="https://github.com/Sharon-Davasia/Cathedral">View repository ↗</a>
       <!-- Live demo: [ADD VERIFIED URL WHEN AVAILABLE] -->
@@ -167,7 +201,7 @@ A few projects across applied AI, computer vision, and full-stack engineering.
   <a href="https://github.com/Sharon-Davasia/Kiro-week2"><strong>Downloads Folder Organizer</strong></a> — a Python utility for sorting files by type, with dry-run previews, logging, and undo support.
 </details>
 
-## 04 / GitHub activity
+## 05 / GitHub activity
 
 <!-- One live widget only. The native GitHub link below remains useful if the service fails. -->
 <picture>
@@ -177,17 +211,17 @@ A few projects across applied AI, computer vision, and full-stack engineering.
 
 <sub>Public contributions, rendered live. <a href="https://github.com/Sharon-Davasia?tab=overview">Open the native activity overview ↗</a></sub>
 
-## 05 / Currently exploring
+## 06 / Currently exploring
 
 - **Deep learning** — architectures, training choices, and computer-vision workflows.
 - **AI-powered applications** — retrieval, evaluation, and interfaces that keep people in control.
 - **Engineering depth** — scalable backend patterns and modern frontend development.
 
-## 06 / Experience & milestones
+## 07 / Experience & milestones
 
 <!-- Transcribed from the published résumé linked below. Confirm current roles/dates. -->
 | Experience | Focus |
-| --- | --- |
+| :--- | :--- |
 | **Deep Learning Intern · Uptoskills** | Computer-vision pipelines for surveillance and anomaly detection. |
 | **Business Intelligence Intern · Microsoft Elevate / AICTE** | Power BI dashboards for sales and public-health data. |
 | **Web Development Assistant · Anant Webtics** | Project-based work on a library-management application. |
@@ -209,7 +243,7 @@ A few projects across applied AI, computer vision, and full-stack engineering.
 
 <img src="assets/divider.svg" width="100%" height="12" alt="" />
 
-## 07 / Let's connect
+## 08 / Let's connect
 
 <!-- Local SVG badges keep the closing section readable even if a badge service is down. -->
 <p>
