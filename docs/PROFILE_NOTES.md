@@ -21,6 +21,8 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 | Bifrost | `Bifrost` README and requirements | Described as self-hosted LAN file/text sharing; no public deployment implied. |
 | ARGUS | `ARGUS` README and package manifest | Explicitly labeled an interactive concept with demo data, not a clinical or production surveillance system. |
 | PROJECT-GENIUS | Source files, package manifest, database schema, and server actions | Described from implemented module/problem-journal code; no README or deployment was present during the check. |
+| MathForML | `MATHFORML` README, content modules, and package manifest | Described as a local-first study platform; topic counts come from the content files, and the unused PostgreSQL template scaffolding is not presented as a feature. No deployment was present during the check. |
+| Founder-OS | `Founder-OS` source files, playbook data, database schema, API routes, and export script | Described from implemented chapter, idea, vote, and export code; no README or deployment was present during the check. The app’s own copy calls it a field manual, which the index echoes without endorsing its advice. |
 | Portfolio / static portfolio | `Portfolio` and `dispensable_portfolio1` READMEs and repository metadata | The React portfolio website link was reachable; the static repository is described as build-free HTML. |
 | task2 / task1 | Repository trees and the task2 pipeline header | task2 is a video-analysis task; task1 is explicitly labeled an empty placeholder. |
 | NeetCode / Django fork / profile source | Repository metadata, README, and fork flag | Practice, upstream fork, and profile source are separated from original project work. |
@@ -46,6 +48,8 @@ Editorial rules:
 - Do not infer a live deployment from a repository description. The portfolio website is the only external project link in the index.
 - Label ARGUS as a front-end concept with demonstration data; label Uptoskills as shared internship work; label Django as a fork; label task1 as empty.
 - Revisit the index when repositories are added, renamed, archived, or given a verified demo URL.
+
+Addendum — 2026-11-10: two repositories created on 2026-11-09 (`MATHFORML`, `Founder-OS`) were added to the main table, bringing the index to 17 repositories and ten main-table rows. Both were audited from source before writing the rows; neither has a homepage, topics, license, or verified deployment, so no demo link was added.
 
 ## External-service check — 2026-11-06
 
