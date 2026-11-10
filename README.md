@@ -3,7 +3,7 @@
   Minimal editorial / sage & neutral / GitHub-native Markdown + HTML.
 
   Edit checklist
-  · Replace the [ADD CREDENTIAL URL] placeholders below with public proof links.
+  · Add public credential links to the Certifications list when they are available.
   · Confirm résumé-derived experience and recognition before publishing.
   · Add project demo links only after verifying a real deployment.
   · Skills are an editable working inventory, not proficiency ratings.
@@ -169,10 +169,10 @@ A working toolkit, not a proficiency scoreboard.
   <summary>Certifications</summary>
   <br />
   <ul>
-    <li>AWS Academy Graduate — Generative AI Foundations · </li>
-    <li>Oracle Cloud Infrastructure 2025 — Generative AI Professional · </li>
-    <li>MongoDB — RAG, Advanced Schema Patterns and Anti-patterns · </li>
-    <li>Microsoft Elevate / AICTE — Power BI Internship Certification ·</li>
+    <li>AWS Academy Graduate — Generative AI Foundations</li>
+    <li>Oracle Cloud Infrastructure 2025 — Generative AI Professional</li>
+    <li>MongoDB — RAG, Advanced Schema Patterns and Anti-patterns</li>
+    <li>Microsoft Elevate / AICTE — Power BI Internship Certification</li>
   </ul>
   <sub>Titles transcribed from the <a href="https://github.com/Sharon-Davasia/dispensable_portfolio1/blob/main/SHARON_RESUME_LATEST.pdf">published résumé</a>; public verification links are not yet supplied.</sub>
 </details>

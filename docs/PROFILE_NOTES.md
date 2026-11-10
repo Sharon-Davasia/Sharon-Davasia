@@ -4,7 +4,7 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 
 ## Finish these placeholders before publishing
 
-- Replace the four `[ADD CREDENTIAL URL]` placeholders in **Certifications** with public certificate links, or remove the placeholder text.
+- Add public certificate links to the **Certifications** list when they are available. The placeholder text has been removed, so the list currently shows titles only.
 - Confirm the experience and recognition entries transcribed from the published résumé. Dates were deliberately omitted because “present” in a résumé can become stale.
 - Review the public email, LinkedIn URL, and portfolio URL. Remove any contact detail you do not want displayed.
 - Add project demo links to the repository index only when a real deployment or demo is verified.
@@ -32,7 +32,7 @@ A short maintenance record for `README.md`. The README itself is the deliverable
 | Downloads Folder Organizer | `Kiro-week2` README | Included as a small optional experiment. |
 | PyTorch | Computer-vision notebooks importing/using `torch` and YOLO | Retained. |
 | TensorFlow | Published résumé and portfolio project stack | Retained without an expertise claim. |
-| Experience, award, leadership, certifications | Published résumé | Transcribed conservatively; credential proof links remain placeholders. |
+| Experience, award, leadership, certifications | Published résumé | Transcribed conservatively; credential proof links are not yet supplied. |
 | Open-source contributions | No merged contribution was verified | No contribution claim added; a fork alone was not treated as a contribution. |
 
 Résumé source: <https://github.com/Sharon-Davasia/dispensable_portfolio1/blob/main/SHARON_RESUME_LATEST.pdf>
